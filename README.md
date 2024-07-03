@@ -1,18 +1,15 @@
-🚀 **GitHub Profile Finder Project**
 
-🔍 **Project Purpose**: Find GitHub users and track your own activity
+GitHub Profile Finder Project
 
-🎨 **Design Tools**: Figma, Photoshop
+Locate GitHub users and monitor your own activity effortlessly,find GitHub users by entering their username
+and  Keep track of your own GitHub activity
 
-💻 **Tech Stack**: HTML, CSS, JS, jQuery, Bootstrap, API, React, GitHub API
+Technologies Used:HTML,CSS,JavaScript,Bootstrap,jQuery,API,GitHub API,React
 
-🙌 Thanks for exploring this project!
 
-🚀 **Key Features**:
 
-- Search for GitHub users by username
-- View detailed user profiles, including repositories and followers
-- Monitor your GitHub activity
-- Clean and user-friendly design
 
-Feel free to use these elements to create an eye-catching and attractive README file for your GitHub Profile Finder project! 🌟
+
+
+
+
